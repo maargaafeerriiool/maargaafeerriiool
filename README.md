@@ -50,4 +50,4 @@ A showcase of my best work, featuring personal projects and contributions to ope
 ## 🎯 Fun Facts
 * I have a passion for **UI/UX Design** and am always exploring ways to improve the user experience.
 * I’ve completed **Galopes 1 and 2** exams in **equestrian sports** 🐴 at **RFHE** (2017).
-* In my free time, I enjoy horse riding and **building my own apps**.
+* In my free time, I enjoy horse riding and **learning new tech things**.
