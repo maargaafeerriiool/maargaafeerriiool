@@ -38,14 +38,14 @@ I enjoy solving complex problems and creating **beautiful, functional apps** tha
 
 ## 📂 Projects
 
-### 🏆 [My Portfolio](https://yourportfolio.com)  
+### 🏆 [My Portfolio]
 A showcase of my best work, featuring personal projects and contributions to open-source repositories.
 
 
 ## 🤝 Let's Connect!
 * 📲 [LinkedIn Profile](https://www.linkedin.com/in/margalida-ferriol-torres/)
 * 🌐 [Portfolio Website](https://yourportfolio.com)  
-* 📧 Email: mferrioltorres@gmail.com
+* 📧 mferrioltorres@gmail.com
 
 ## 🎯 Fun Facts
 * I have a passion for **UI/UX Design** and am always exploring ways to improve the user experience.
