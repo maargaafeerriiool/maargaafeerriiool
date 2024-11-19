@@ -16,7 +16,7 @@ I'm a passionate Frontend Developer at Firechip, specializing in building beauti
 
 ## Let's Connect!
 
-* ⁠[LinkedIn Profile](https://www.linkedin.com/in/candela-simón-verdaguer/)
+* ⁠[LinkedIn Profile](https://www.linkedin.com/in/margalida-ferriol-torres/)
 
 
 
