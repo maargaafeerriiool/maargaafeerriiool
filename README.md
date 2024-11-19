@@ -9,8 +9,6 @@ I'm a passionate Frontend Developer at Firechip, specializing in building beauti
 ## Experience
 * **Frontend Developer (Part-time)** at Firechip, contributing to the development of their design system.
 
-## Projects
-
 
 ## Let's Connect!
 
