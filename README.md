@@ -12,8 +12,8 @@ I'm a passionate Frontend Developer at Firechip, specializing in building beauti
 
 ## Let's Connect!
 
-* [LinkedIn Profile][(https://www.linkedin.com/in/margalida-ferriol-torres/))]
+* [LinkedIn Profile][(https://www.linkedin.com/in/margalida-ferriol-torres/)]
 
 
-> "The best way to predict the future is to invent it." - Alan Kay
+
 
