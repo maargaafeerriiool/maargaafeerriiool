@@ -7,8 +7,12 @@ I'm a passionate Frontend Developer at Firechip, specializing in building beauti
 * **Other:** Git, GitHub, Agile methodologies
 
 ## Experience
-* **Frontend Developer (Part-time)** at Firechip, contributing to the development of their design system.
+* **Frontend Developer at Firechip** (November 18, 2024 - April 7, 2025)
 
+Developed and maintained design systems with React for multiple brands, ensuring consistency and scalability across various applications.
+Built Progressive Web Apps with a focus on performance, accessibility, and offline functionality.
+Collaborated with backend developers to integrate GraphQL APIs, enabling efficient data fetching and management.
+Contributed to the development of user interfaces for IoT and mobile device management applications, focusing on user experience and responsive design.
 
 ## Let's Connect!
 
