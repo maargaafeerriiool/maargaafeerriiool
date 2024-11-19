@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Margalida Ferriol Torres 👋
+I'm a passionate Frontend Developer at Firechip, specializing in building beautiful and functional user interfaces with React. I love exploring new technologies and contributing to open-source projects.
 
-<!--
-**maargaafeerriiool/maargaafeerriiool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* **Frontend:**  React, JavaScript, HTML, CSS, Tailwind CSS
+* **Design Systems:** Adobe Spectrum
+* **Other:** Git, GitHub, Agile methodologies
 
-Here are some ideas to get you started:
+## Experience
+* **Frontend Developer (Part-time)** at Firechip, contributing to the development of their design system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+## Let's Connect!
+
+* [LinkedIn Profile][(https://www.linkedin.com/in/margalida-ferriol-torres/))]
+
+
+> "The best way to predict the future is to invent it." - Alan Kay
+
