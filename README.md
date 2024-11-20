@@ -3,7 +3,7 @@ I'm a passionate **Frontend Developer** currently studying **Multiplatform Appli
 
 In addition to my studies, I have hands-on experience creating my own app as part of a **summer course** at UAB and serving as a board member at the **Sindicat d'Estudiants IES Llorenç Garcías i Font d'Artà**.  
 
-## 🧑‍💻 ABOUT ME
+# 🧑‍💻 ABOUT ME
 I enjoy solving complex problems and creating **beautiful, functional apps** that improve people's lives. As a frontend developer, I focus on user interfaces and experience, but I’m also expanding my skill set in **multiplatform development**. I enjoy learning and collaborating with others to bring creative ideas to life!
 
 * 💬 **Languages:** Catalan (Native), Spanish (Native), English (B2)
